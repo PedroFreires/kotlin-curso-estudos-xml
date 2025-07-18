@@ -59,6 +59,7 @@ Os projetos foram criados utilizando as IDEs **IntelliJ IDEA** e/ou **AndroidStu
 
 ## 🚀 Tecnologias Utilizadas
 - [Documentação Kotlin](https://kotlinlang.org/)
+- [Curso Udemy](https://www.udemy.com/course/desenvolvimento-android-profissional/learn/lecture/37860704#notes)
 - IntelliJ IDEA / AndroidStudio
 - Lógica de Programação
 - Estruturas básicas: variáveis, constantes, listas, operadores, condicionais, loops, funções, classes
